@@ -1,0 +1,12 @@
+{
+    "name": "laoyang-snippets",
+    "contributes": {
+        "snippets": [
+           {
+                "language": "python",
+                "path": "./snippets/python.json"
+            }
+       ]
+    }
+}
+
